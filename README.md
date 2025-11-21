@@ -8,7 +8,7 @@ The purpose of this challenge is to build strong fundamentals, improve my proble
 ## Overview
 - **Language:** C  
 - **Duration:** 100 Days  
-- **Problems Solved:** 150  
+- **Problems Solved:** 150(Being Updated Daily)  
 - **Focus Areas:** Logic building, clean coding, fundamentals, practice  
 
 ---
