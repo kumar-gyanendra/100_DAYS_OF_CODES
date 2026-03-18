@@ -60,7 +60,7 @@ The purpose of this challenge is to build strong fundamentals, improve my proble
 ---
 
 ## Contact
-If you would like to view more of my work or discuss opportunities:
+If you would like to view more of my work or discuss opportunities:-
 
 - **GitHub:**  https://github.com/kumar-gyanendra
 - **LinkedIn:**  https://www.linkedin.com/in/krgyanendra213  
